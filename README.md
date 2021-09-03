@@ -24,4 +24,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codersabbirr&show_icons=true&locale=en" alt="codersabbirr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codersabbirr&" alt="codersabbirr" /></p>
+<p align="center">
+<a href="#go-nowhere">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codersabbirr&theme=tokyonight&ring=ffa200&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true&background=00000000" alt="krishnamoorthy12" />
+</a>
+</p>
+
