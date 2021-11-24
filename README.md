@@ -8,10 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codersabbirr" alt="codersabbirr" /></a> </p>
 
-- 👯 I’m looking to collaborate on [E-commerce](https://panda-commerce-sabbir.netlify.app)
-
-- 🤝 I’m looking for help with [Food-Network](https://food-network-shop.netlify.app)
-
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Node, Express & MongoDB **. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - 📫 How to reach me **sabbirnahid5817@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
