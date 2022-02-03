@@ -4,12 +4,12 @@
   <img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codersabbirr&label=Profile%20views&color=0e75b6&style=flat" alt="codersabbirr" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=codersabbirr&label=Profile%20views&color=0e75b6&style=flat" alt="codersabbirr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codersabbirr" alt="codersabbirr" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codersabbirr" alt="codersabbirr" /></a> </p>
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently Learning **Node, Express & MongoDB**
-- 📫 How to reach me **sabbirnahid5817@gmail.com**
+-<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm currently Learning **Node, Express & MongoDB**
+-📫 How to reach me **sabbirnahid5817@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
