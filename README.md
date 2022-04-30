@@ -9,7 +9,7 @@
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codersabbirr" alt="codersabbirr" /></a> </p>
 
 -<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />&nbsp;I'm currently Learning **ElectronJs**
-</br>-📫How to reach me **sabbirnahid5817@gmail.com**
+</br>-📫 How to reach me **sabbirnahid5817@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
