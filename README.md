@@ -197,8 +197,6 @@ I enjoy turning ideas into clean digital products. My work covers full-stack MER
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=coderSabbirr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderSabbirr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
 
@@ -239,7 +237,7 @@ I enjoy turning ideas into clean digital products. My work covers full-stack MER
 [![Portfolio](https://img.shields.io/badge/Portfolio-nahidhasan--sabbir.netlify.app-38bdf8?style=for-the-badge&logo=netlify&logoColor=white)](https://nahidhasan-sabbir.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nahidhasansabbir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidhasansabbir)
 [![GitHub](https://img.shields.io/badge/GitHub-coderSabbirr-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coderSabbirr)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahidhasansabbir@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabbirnahid5817@gmail.com)
 
 </div>
 
